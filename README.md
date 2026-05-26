@@ -87,15 +87,15 @@ The project is designed using the following tables:
  .Connected with Product, Region, and Date
  
 # Dimension Tables
-1. Product_Dim
+1.Product_Dim
    
   .Product details such as ProductID, ProductName, Category, and Cost
 
-3. Customer_Dim
+2.Customer_Dim
    
  .Customer information including CustomerID, FullName
 
-5. Region_Dim
+3. Region_Dim
    
  .Regional information including RegionID
 and RegionName
