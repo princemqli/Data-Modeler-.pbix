@@ -11,7 +11,7 @@ insights through data
 visualization, helping users make data-driven decisions efficiently.
 
 # Features
-. # Interactive and user-friendly dashboard.
+Interactive and user-friendly dashboard.
 
 Clean and attractive design.
 
@@ -56,6 +56,8 @@ Enhance dashboard performance.
 
 # Modeling 
 <img width="1686" height="1008" alt="Screenshot 2026-05-26 at 10 19 43 AM" src="https://github.com/user-attachments/assets/d3aaa15b-d1b8-4c30-b89b-f6d0812a491a" />
+Power Bi Sales Dashboard
+
 
 
 
