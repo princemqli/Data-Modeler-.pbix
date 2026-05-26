@@ -68,37 +68,48 @@ The data model follows a star schema design to ensure efficient querying and bet
 
 The project is designed using the following tables:
 
-Fact Tables
+# Fact Tables
 
-# Sales_Fact
-Contains transactional sales data
-Includes metrics like Cost, Profit, Quantity
-Linked with Product, Customer, Region, and Date dimensions
+1.Sales_Fact
+ .Contains transactional sales data
 
-# Returns_Fact
-Contains product return data
-Tracks returned quantities and related details
-Connected with Product, Region, and Date
-Dimension Tables
+ .Includes metrics like Cost, Profit, Quantity
 
-# Product_Dim
-Product details such as ProductID, ProductName, Category, and Cost
+ .Linked with Product, Customer, Region, and Date dimensions
 
-# Customer_Dim
-Customer information including CustomerID, FullName, FirstName, LastName
+2. Returns_Fact
+ .Contains product return data
 
-# Region_Dim
-Regional information including RegionID and RegionName
+ .Tracks returned quantities and related details
+ 
+ .Connected with Product, Region, and Date
+ 
+# Dimension Tables
+1. Product_Dim
+  .Product details such as ProductID, ProductName, Category, and Cost
 
-# Date_Dim
-Date-related attributes such as Year, Quarter, Month, Day, Weekday
+2. Customer_Dim
+ .Customer information including CustomerID, FullName
+
+3. Region_Dim
+ .Regional information including RegionID
+and RegionName
+
+4.Date_Dim
+.Date-related attributes such as Year, 
+
+.Quarter, Month, Day, Weekday
 
 # Relationships
-One-to-many relationships between dimension tables and fact tables
-Centralized fact table (Sales_Fact) connected to all dimensions
-Returns_Fact shares relationships with Product, Region, and Date
-Proper key-based joins using IDs (ProductID, CustomerID, RegionID, Date)
-Dax Formulas  isko muje redme file ke format me du
+.One-to-many relationships between dimension tables and fact tables
+
+.Centralized fact table (Sales_Fact) connected to all dimensions
+
+.Returns_Fact shares relationships with Product, Region, and Date
+
+.Proper key-based joins using IDs (ProductID, CustomerID, RegionID, Date)
+
+Dax Formulas  
 
 
 
