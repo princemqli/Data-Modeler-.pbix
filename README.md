@@ -121,6 +121,78 @@ Dax Formulas
 <img width="360" height="871" alt="Screenshot 2026-05-26 at 10 16 49 AM" src="https://github.com/user-attachments/assets/2d1e7d5f-a02b-43eb-8138-b340c589c7ef" />
 <img width="323" height="783" alt="Screenshot 2026-05-26 at 10 17 22 AM" src="https://github.com/user-attachments/assets/df750c79-ae7e-4b3d-a864-745d57ac9785" />
 
+# Power BI DAX Measures and Calculations
+
+# Overview
+
+This file 
+contains DAX measures a
+nd calculated columns 
+used in the Power BI d
+ashboard to analyze sales, 
+customers, and returns data.
+
+# Measures Included
+
+# 1.Total Sales:-
+Sum of sales amount
+
+# Average Sale:-
+Average sales per transaction
+
+# Total Transactions:-
+Count of unique sales
+
+# Total Profit & Cost:-
+Overall profit and cost calculation
+
+# Quantity:-
+Total items sold
+
+# Return Rate:- 
+Ratio of returned orders to total sales
+
+# High Sales Metrics:-
+Filtered calculations for high-value sales
+
+# Time Intelligence:-
+Last Year Sales
+Last 3 Months Sales
+
+# Sales Comparison:-
+Sales (All Regions)
+Sales Difference
+
+# Sales Category:-
+Classification (Low, Medium, High)
+
+# Calculated Columns
+# Total Revenue: 
+SalesAmount × Quantity
+
+# Sales Category: 
+Based on revenue thresholds
+
+# Return Flag: 
+Returned / Not Returned
+
+# Region Name & Product Category: 
+Using relationships
+
+# Customer Transformations:
+Full Name
+
+# Functions Used
+CALCULATE, SUM, COUNT, DISTINCTCOUNT
+
+FILTER, COUNTROWS, MAX
+
+DIVIDE, SWITCH, IF
+
+RELATED, VALUES
+
+Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR, DATESINPERIOD)
+
 
 
 
