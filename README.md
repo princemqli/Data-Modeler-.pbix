@@ -11,7 +11,7 @@ insights through data
 visualization, helping users make data-driven decisions efficiently.
 
 # Features
-#. Interactive and user-friendly dashboard.
+. # Interactive and user-friendly dashboard.
 
 Clean and attractive design.
 
