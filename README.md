@@ -73,32 +73,32 @@ The project is designed using the following tables:
 
 # Fact Tables
 
- # Sales_Fact
-. Contains transactional sales data
-. Includes metrics like Cost, Profit, Quantity
-. Linked with Product, Customer, Region, and Date dimensions
+. Sales_Fact
+ . Contains transactional sales data
+ . Includes metrics like Cost, Profit, Quantity
+ . Linked with Product, Customer, Region, and Date dimensions
 
-# Returns_Fact
-. Contains product return data
-. Tracks returned quantities and related details
-. Connected with Product, Region, and Date
+. Returns_Fact
+ . Contains product return data
+ . Tracks returned quantities and related details
+ . Connected with Product, Region, and Date
 
-# Dimension Tables
+. Dimension Tables
  . Product_Dim
-   Product details such as 
-   ProductID, ProductName, Category, and Cost
+ . Product details such as 
+ . ProductID, ProductName, Category, and Cost
    
  . Customer_Dim
     . Customer information including 
-      CustomerID, FullName.
+    . CustomerID, FullName.
       
  . Region_Dim
-    Regional information including RegionID and 
-    RegionName
+   . Regional information including RegionID and 
+   . RegionName
     
  . Date_Dim
-    Date-related attributes such as Year, 
-    Quarter, Month, Day.
+   . Date-related attributes such as Year, 
+   . Quarter, Month, Day.
     
 # Relationships
 . One-to-many relationships between dimension tables and fact tables
