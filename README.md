@@ -193,6 +193,15 @@ RELATED, VALUES
 
 Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR, DATESINPERIOD)
 
+# Data Transformation
+<img width="1710" height="965" alt="Screenshot 2026-05-26 at 10 18 49 AM" src="https://github.com/user-attachments/assets/a5fb2987-d16e-4512-a015-943772ff8c2e" />
+<img width="1699" height="1005" alt="Screenshot 2026-05-26 at 10 20 51 AM" src="https://github.com/user-attachments/assets/4bf1d38b-4252-465f-8797-c83066751721" />
+<img width="1710" height="1007" alt="Screenshot 2026-05-26 at 10 21 17 AM" src="https://github.com/user-attachments/assets/0c016289-798d-441c-b7c6-90b6d7a9e9aa" />
+<img width="1691" height="1011" alt="Screenshot 2026-05-26 at 10 21 50 AM" src="https://github.com/user-attachments/assets/22408202-9eb7-4d04-8a1e-0cba65221427" />
+<img width="1679" height="999" alt="Screenshot 2026-05-26 at 10 22 25 AM" src="https://github.com/user-attachments/assets/35ca0786-8995-440a-aac8-5dd64dd013f6" />
+<img width="1710" height="1107" alt="Screenshot 2026-05-26 at 10 23 26 AM" src="https://github.com/user-attachments/assets/e48aa5c9-c886-404b-87eb-5feeb75376fd" />
+<img width="1710" height="1107" alt="Screenshot 2026-05-26 at 10 23 35 AM" src="https://github.com/user-attachments/assets/46e3effc-71bf-455b-b6af-1dd5e3987427" />
+
 
 
 
