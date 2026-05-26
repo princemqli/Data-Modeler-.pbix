@@ -202,6 +202,53 @@ Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR, DATESINPERIOD)
 <img width="1710" height="1107" alt="Screenshot 2026-05-26 at 10 23 26 AM" src="https://github.com/user-attachments/assets/e48aa5c9-c886-404b-87eb-5feeb75376fd" />
 <img width="1710" height="1107" alt="Screenshot 2026-05-26 at 10 23 35 AM" src="https://github.com/user-attachments/assets/46e3effc-71bf-455b-b6af-1dd5e3987427" />
 
+# Power BI Data Transformation (Power Query)
+
+# Overview
+
+This project includes data cleaning and transformation steps performed in Power Query to prepare raw data for analysis in Power BI.
+
+# Tables Processed
+
+Sales_Fact
+Returns_Fact
+Customer_Dim
+Product_Dim
+Region_Dim
+Date_Dim
+Key Transformations
+
+# Data Cleaning
+
+Removed null values from key columns (CustomerID, ProductID, RegionID)
+Removed unnecessary columns (DateKey, extra text columns)
+Ensured all columns have correct data types
+Data Transformation
+
+Renamed columns for better readability
+Added custom columns where required
+Filtered rows to maintain valid data
+Created proper date format (New_Date)
+Data Structuring
+
+# Maintained star schema structure
+Ensured consistency between fact and dimension tables
+Applied indexing where needed
+Tools Used
+
+# Power BI Power Query Editor
+M Language (Power Query Formula Language)
+Purpose
+
+# These transformations ensure:
+
+Clean and reliable dataset
+Improved performance of dashboard
+Accurate reporting and analysis
+Usage
+
+All transformations are applied in Power Query before loading data into the Power BI model.
+
 
 
 
