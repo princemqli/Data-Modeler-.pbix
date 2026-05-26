@@ -1,5 +1,6 @@
 Power BI DashBoard Project
-<img width="1704" height="982" alt="Screenshot 2026-05-26 at 10 18 13 AM" src="https://github.com/user-attachments/assets/558fc4cd-e68a-4281-8c48-261f5ae0eb8f" 
+<img width="1704" height="982" alt="Screenshot 2026-05-26 at 10 18 13 AM" src="https://github.com/user-attachments/assets/781114d7-9dce-4999-b724-bb9d949ac8d4" />
+
 
 
 # Overview
