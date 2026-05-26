@@ -115,7 +115,7 @@ and RegionName
 .Returns_Fact shares relationships with Product, Region, and Date
 
 .Proper key-based joins using IDs (ProductID, CustomerID, RegionID, Date)
-
+---
 Dax Formulas  
 
 
