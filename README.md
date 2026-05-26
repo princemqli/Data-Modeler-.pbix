@@ -12,23 +12,34 @@ visualization, helping users make data-driven decisions efficiently.
 
 # Features
 Interactive and user-friendly dashboard.
+
 Clean and attractive design.
+
 Dynamic filtering and slicing options.
+
 Key performance indicators (KPIs).
+
 Data visualization using charts, graphs, and tables.
+
 Drill-down and drill-through capabilities.
 
 # Tools and Technologies
 Power BI Desktop.
+
 Data Modeling.
+
 DAX (Data Analysis Expressions).
+
 Data Visualization Techniques.
  
 
 # Insights Provided
 Overview of key metrics.
+
 Trend analysis.
+
 Comparative analysis.
+
 Performance tracking.
 
 # Purpose
@@ -38,7 +49,9 @@ data into actionable insights using Power BI.
 
 # Future Improvements
 Add more advanced analytics.
+
 Integrate real-time data sources.
+
 Enhance dashboard performance.
 
 # Modeling 
