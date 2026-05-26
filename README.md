@@ -78,7 +78,7 @@ The project is designed using the following tables:
 
  .Linked with Product, Customer, Region, and Date dimensions
 
-2. Returns_Fact
+2.Returns_Fact
    --  
  .Contains product return data
 
@@ -95,7 +95,7 @@ The project is designed using the following tables:
    -
  .Customer information including CustomerID, FullName
 
-3. Region_Dim
+3.Region_Dim
    -
  .Regional information including RegionID
 and RegionName
@@ -118,6 +118,10 @@ and RegionName
 
 Dax Formulas  
 ---
+<img width="360" height="871" alt="Screenshot 2026-05-26 at 10 16 49 AM" src="https://github.com/user-attachments/assets/2d1e7d5f-a02b-43eb-8138-b340c589c7ef" />
+<img width="323" height="783" alt="Screenshot 2026-05-26 at 10 17 22 AM" src="https://github.com/user-attachments/assets/df750c79-ae7e-4b3d-a864-745d57ac9785" />
+
+
 
 
 
