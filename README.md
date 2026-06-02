@@ -1,5 +1,6 @@
 # Readme.md
-<img width="1704" height="982" alt="Screenshot 2026-05-26 at 10 18 13 AM" src="https://github.com/user-attachments/assets/460ed2d2-f81e-42f2-9850-75c50d42c6a3" />
+<img width="1704" height="982" alt="Screenshot 2026-05-26 at 10 18 13 AM" src="https://github.com/user-attachments/assets/a06e605c-d455-47f9-b44c-1dd3cf3df8f2" />
+
 
 
 Power BI DashBoard Project
